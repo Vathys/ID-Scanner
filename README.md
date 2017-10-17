@@ -10,3 +10,6 @@ Queries answered through StackOverFlow database
 
 # Purpose
 Create a singluar system capable of updating and logging information from input scanners
+
+
+Just stopping by for HACKTOBERFEST
